@@ -21,4 +21,4 @@ Here's what a typical page of the Guemarah looks like:
 * The text in red is Tosafos, most of which were written in France in the middle ages. They represent further commentary on the Mishnah and Rashi. 
 
 
-I wonder if modern examples of annotation will ever reach the same level of complexity, depth and sophistication that is present in the Talmud. 
+I wonder if modern examples of annotation will ever reach the same level of complexity, depth and sophistication that is present in the Talmud.
