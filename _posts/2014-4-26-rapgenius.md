@@ -2,6 +2,7 @@
 layout: post
 title: The Talmud and RapGenius
 comments: true
+author: Mimoun
 ---
 
 I've been thinking about annotation and RapGenius, the startup that successfully took advantage of this trend. But it is not until recently that I realized that the most interesting example of annotation has been lying there, in front of me, my entire life.
