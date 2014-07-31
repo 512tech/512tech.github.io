@@ -1,0 +1,14 @@
+---
+layout: post
+title: Recounting OMGPop
+comments: true
+author: Gilad
+---
+
+A few years ago there was a popular product known as [OMGPop](http://www.crunchbase.com/organization/omgpop). A multiplayer platform I found to be entertaining and mildly addicting. No surprise it was acquired in 2012, a modest profit for the founders and investors. However, after [Zynga](zynga.com) bought them in 2012, their stock plummeted, falling to-date approx. [80%](https://www.google.com/finance?chdnp=1&chdd=1&chds=1&chdv=1&chvs=maximized&chdeh=0&chfdeh=0&chdet=1406779279154&chddm=233317&chls=IntervalBasedLine&q=NASDAQ:ZNGA&ntsp=0&ei=gb_ZU5jHOYjCrQGevoC4CA). Mark Pincus is viewed as (one of the worst CEO's in 2012)[http://www.businessweek.com/articles/2012-12-13/the-worst-ceos-of-2012]. Looking at Zynga's incredible growth and success previously, how could this have happened? What went wrong? 
+
+However, I'm not here to rant about Zynga and OMGPop, rather explore the incident as a paradigm of the tech scene as a whole. After Zynga climaxed, [investors lost an interest in online games](http://www.digi-capital.com/), and the online-game bubble (omg)popped. The following tech craze fueled massive growth, and once the sector becomes inundated with competitors, the market abruptly adjusts itself due to companies underperforming – revenues and profits failing to meet expectations. This pattern repeats itself – currently we're in the midst of a 3D printing [mini-bubble](http://www.3ders.org/pricecompare/3dprinters/), and we're about to experience smart-watch and virtual reality mini-bubbles as well. We're going to see these patterns with every technology. 
+
+Everyone's been curious about whether there's a tech bubble or not. Come on, look at [Snapchat's and Uber's valuations](http://techcrunch.com/2014/07/30/snapchat-in-talks-with-alibaba-joins-the-10-billion-valuation-club/)! However, the Tech Bubble® is a rumor – and even if does exist – we won't experience anything like 2000 any time soon, as long as there's new technology to fuel another mini-bubble. Instead, we're going to see waves of growth and decay in different tech sectors. Whereas businessmen and entrepreneurs might ride these waves,  as developers, it's our obligation to splash around the virtual ocean and spawn more waves. 
+
+That's why [Mimoun](http://mimouncadosch.github.io/) and I are working on a legal startup – startups which only consist [.1% of all startups on AngelList](https://angel.co/companies?markets[]=Legal). A notoriously low-tech industry, after contacting lawyers and learning more about the field, we truly believe it's prone to disruption. Currently we're working on FirePact, and we want to innovate the way contracts are generated, analyzed and visualized. 
